@@ -18,7 +18,7 @@ To make this possible, the framework specifies 5 types of components:
 * IApp
 
 
-Test procedures:
+# Test procedures:
 
 * Created one cucumber feature file 
 * Converted the feature into junit test file
