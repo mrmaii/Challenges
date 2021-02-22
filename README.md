@@ -16,3 +16,10 @@ To make this possible, the framework specifies 5 types of components:
 * IAdapter
 * IEvent
 * IApp
+
+
+Test procedures:
+
+* Created one cucumber feature file 
+* Converted the feature into junit test file
+* Adapted all necessary changes
